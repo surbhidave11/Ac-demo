@@ -1,5 +1,5 @@
 # Ac-demo
 American Chase Git Demo
 <br>
-Second day
+Second day of training
 
